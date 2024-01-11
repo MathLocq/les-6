@@ -1,0 +1,26 @@
+[
+    {
+    "titel": "The Great Gatsby",
+    "Auteur": "F.Scott Fitzgerald",
+    "Genre": "Roman",
+    "Publicatiejaar": 1925,
+    "Prijs": 15.00
+    },
+
+    {
+    "titel": "1984",
+    "Auteur": "George Orwell",
+    "Genre": "Dystopie",
+    "Publicatiejaar": 1949,
+    "Prijs": 14.00
+    },
+
+    {
+        "titel": "To Kill a Mockingbird",
+        "Auteur": "Harper Lee",
+        "Genre": "Roman",
+        "Publicatiejaar": 1960,
+        "Prijs": 12.50
+    }
+
+]
